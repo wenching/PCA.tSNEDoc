@@ -52,7 +52,7 @@ The cumulative proportion for a value x in a distribution is the proportion of o
 
 ## 鳶尾花(iris)
 
-這個R內建的鳶尾花(iris)資料集是非常著名的生物資訊資料集之一，取自美國加州大學歐文分校的機械學習資料庫http://archive.ics.uci.edu/ml/datasets/Iris，資料的筆數為150筆，共有五個欄位：
+這個R內建的鳶尾花(iris)資料集是非常著名的生物資訊資料集之一，取自[美國加州大學歐文分校的機械學習資料庫](http://archive.ics.uci.edu/ml/datasets/Iris)，資料的筆數為150筆，共有五個欄位：
 
  1. 花萼長度(Sepal Length)：計算單位是公分。
  2. 花萼寬度(Sepal Width)：計算單位是公分。
